@@ -25,7 +25,6 @@
   - [Marketing Project Management](#marketing-project-management)
   - [Webinar and Virtual Events](#webinar-and-virtual-events)
   - [Sales Assistant](#sales-assistant)
-  - [Product Launch Platforms](#product-launch-platforms)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -33,7 +32,6 @@
 
 Improve and manage advertising campaigns across various platforms.
 
-- [AdEspresso](https://adespresso.com/) - Managing, monitoring, and automating Facebook, Instagram, and Google ads
 - [Revealbot](https://revealbot.com/) - Automating Facebook, Instagram, and Google ads
 - [Smartly.io](https://www.smartly.io/) - Automating and optimizing social media advertising
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads
@@ -87,7 +85,6 @@ Optimize websites for search engines and improve organic traffic.
 - [Moz Pro](https://moz.com/products/pro) - SEO software and tools
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler and SEO auditing tool
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin
-- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills.
 
 ## Content Marketing
 
@@ -98,8 +95,6 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management
 - [Feedly](https://feedly.com/) - Content curation and RSS reader
-- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
-- [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online stores, covering product descriptions, ads, email, and SEO across 43 product categories.
 
 ## Customer Relationship Management (CRM)
 
@@ -121,7 +116,6 @@ Automate marketing processes and workflows.
 - [Autopilot](https://www.autopilothq.com/) - Visual marketing automation software
 - [Customer.io](https://customer.io/) - Automated messaging platform
 - [AutoCust](https://www.autocust.it/) - AI-powered marketing automation platform with user behavior prediction and multichannel communication
-- [Hanzi](https://github.com/hanzili/hanzi-in-chrome) - Open-source AI agent for browser-based marketing automation. LinkedIn prospecting and social posting from your real signed-in browser. Free, works with any AI coding agent
 
 ## Tracking
 
@@ -183,7 +177,6 @@ Collect and analyze customer feedback to improve products and services.
 - [Typeform](https://www.typeform.com/) - Online form and survey builder
 - [Qualtrics](https://www.qualtrics.com/) - Experience management platform
 - [Feedier](https://feedier.com/) - Customer feedback management platform
-- [Delighted](https://delighted.com/) - Customer feedback and NPS platform
 
 ## Marketing Project Management
 
@@ -211,12 +204,6 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 
 - [AI Sales Assistant (AISA)](https://aisalesassistant.it/) - AI sales assistant that reads your knowledge base, recognizes products, and displays them in chat with carousels and buy buttons. Opens tickets, books, and queries your systems when needed
 
-## Product Launch Platforms
-
-Platforms and directories to launch and promote startups and products.
-
-- [awesome-indie-launch](https://github.com/y2hhbw/awesome-indie-launch) - A curated list of 222+ places where indie hackers can launch and promote startups, including launch platforms and Reddit communities.
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
@@ -229,5 +216,4 @@ To the extent possible under law, Enrico Deleo <enrico@tractionmanagement.it> ha
 
 ## Cold Email & B2B Outbound
 
-- [B2B Outbound Sniper](https://github.com/getlemnos32/b2b-outbound-sniper) - Open-source autonomous B2B outbound engine. Scrapes job boards for hiring signals, verifies emails, personalizes with 6 LLMs, sends via SMTP. 10/10 deliverability. 52.9% open rate in 30-day production campaign.
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
